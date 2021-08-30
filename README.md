@@ -42,5 +42,7 @@ Currently Attending, Decriptions, and Trainer's Name)
 - [ ] Setup Database for Store (Item Name, Remaining Stock, Restock Max Size, Sale Price, Current Price, and Image)  
 - [ ] Setup Initial Layout of the app for the UI
 - [ ] Add NFC for Attendance Tracking for classes and the overall gym capacity
-- [ ] Research possiblities for creating messaging between multiple users and implementing if possible
+- [X] Research possiblities for creating messaging between multiple users and implementing if possible
+* https://medium.com/geekculture/a-simple-way-to-build-a-mobile-chat-app-with-react-native-gifted-chat-203a6fad63a5
+* This communication was streamlined in React Native compared to Android Studio when the project was first created. 
 - [ ] Setup Notifications (Sales, Classes Reminders, and Out of Stock)
