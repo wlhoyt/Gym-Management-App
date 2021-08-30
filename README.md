@@ -32,7 +32,6 @@ Following the original idea that is located on the webpage, we wanted:
 
 ### Major Changes
 - Will be changing the apps foundation from Android studio to React Native
-- Will be changing the database from Firebase to a SQL database
 - Will be changing the coding language from Java to Python for backend functionality
 
 # Goals For the Rewrite
