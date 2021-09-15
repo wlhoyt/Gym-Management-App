@@ -34,12 +34,23 @@ Following the original idea that is located on the webpage, we wanted:
 - Will be changing the apps foundation from Android studio to React Native
 - Will be changing the coding language from Java to Python for backend functionality
 
+### UML Images/ Design Images
+Admin UML\
+![Admin Version Layout](https://github.com/wlhoyt/Gym-Management-App/blob/main/adminLayout.PNG)
+
+Member UML\
+![Member Version Layout](https://github.com/wlhoyt/Gym-Management-App/blob/main/memberLayout.PNG)
+
+UI/UX Rough Layout\
+The three vertical lines indicate a hidden side menu button.\
+![ui-ux Layout](https://github.com/wlhoyt/Gym-Management-App/blob/main/ui-uxLayout.PNG)
+
 # Goals For the Rewrite
 - [ ] Setup Database for Scheduling Classes and Private Sessions with trainers (Dates, Remaining Spots, Max Capcity ,
 Currently Attending, Decriptions, and Trainer's Name) 
 - [ ] Setup Database for Members (Name, Age, Sex, and Days Until Membership Expires)
 - [ ] Setup Database for Store (Item Name, Remaining Stock, Restock Max Size, Sale Price, Current Price, and Image)  
-- [ ] Setup Initial Layout of the app for the UI
+- [X] Setup Initial Layout of the app for the UI
 - [ ] Add NFC for Attendance Tracking for classes and the overall gym capacity
 - [X] Research possiblities for creating messaging between multiple users and implementing if possible
 * https://medium.com/geekculture/a-simple-way-to-build-a-mobile-chat-app-with-react-native-gifted-chat-203a6fad63a5
